@@ -110,7 +110,8 @@ li.top-level-link.d-none {
     z-index:9999;
     width:100%;
 }
-.sticky {
+.sticky,
+#fixed-header.sticky ~ .dark.d-none.d-lg-block {
   opacity:0.9;
 }
 
@@ -188,12 +189,13 @@ section:nth-of-type(2) .container.container-slider{
 }
 
 @media (max-width: 768px) {
-  .search-header-bar {
+  .search-header-bar,
+  .d-flex.align-items-center.bd-highlight.header-logo a:nth-of-type(2) {
       height: 120px;
   }
   .d-flex.align-items-center.bd-highlight.header-logo a:nth-of-type(2) {
-    right: calc(50% - 68px);
-    position: relative;
+    right: calc(50% - 88.5px);
+    position: absolute;
 }
 }
 
