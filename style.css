@@ -176,7 +176,7 @@ section:nth-of-type(2) .container.container-slider{
     background: url('https://media.zid.store/cdn-cgi/image/h=175,q=85/https://media.zid.store/548fed5f-1bb5-4611-9faa-cfc0bc39cf0e/ab4c60f8-a481-4c7d-bb3c-f3987ac5b01a-200x.png');
     background-size: 100% 100%;
     width: 50px;
-    height: 70px;
+    height: 50px;
     display: block;
     filter: contrast(0.5) brightness(454.5);
     right: -20px;
