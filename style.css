@@ -173,7 +173,7 @@ section:nth-of-type(2) .container.container-slider{
 }
 .testimonials-customer-card .icon-account_circle_black_24dp:before {
       content: "";
-    background: url(https://media.zid.store/cdn-cgi/image/h=175,q=85/https://media.zid.store/548fed5f-1bb5-4611-9faa-cfc0bc39cf0e/31e2cf9f-e1df-4112-bf93-16d4c492c59f.png);
+    background: url('https://media.zid.store/cdn-cgi/image/h=175,q=85/https://media.zid.store/548fed5f-1bb5-4611-9faa-cfc0bc39cf0e/ab4c60f8-a481-4c7d-bb3c-f3987ac5b01a-200x.png');
     background-size: 100% 100%;
     width: 50px;
     height: 70px;
@@ -232,7 +232,7 @@ background: linear-gradient(to top, #766c56, #000 , #000, #000 ,#000) !important
     height: 150px;
     width: 120px;
     margin: auto auto 20px;
-    background-image: url('https://media.zid.store/cdn-cgi/image/h=175,q=85/https://media.zid.store/548fed5f-1bb5-4611-9faa-cfc0bc39cf0e/31e2cf9f-e1df-4112-bf93-16d4c492c59f.png');
+    background-image: url('https://media.zid.store/cdn-cgi/image/h=175,q=85/https://media.zid.store/548fed5f-1bb5-4611-9faa-cfc0bc39cf0e/ab4c60f8-a481-4c7d-bb3c-f3987ac5b01a-200x.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
