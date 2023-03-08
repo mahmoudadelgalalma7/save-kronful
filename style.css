@@ -201,9 +201,7 @@ section:nth-of-type(2) .container.container-slider{
 
 
 .search-header .image-logo {
-  height:100%;
-  width:100%;
-  padding:0;
+  padding:10px 0;
 }
 .section-title { text-align:center }
 a.btn.btn-primary.product-card-add-to-cart {
